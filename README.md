@@ -1,3 +1,4 @@
 # Nikkuniky
 This is my first Git Repository
-feature 1 added
+feature 1 add
+
